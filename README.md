@@ -9,6 +9,7 @@ During installation, check the box that says "Add Python to PATH", then complete
 # 2. Verify Python and pip Installation
 After installation, open a terminal (Command Prompt, PowerShell, or Terminal) and run:
 **python --version**
+
 **pip --version**
 If Python and pip are installed correctly, these commands will display their versions.
 
